@@ -30,3 +30,8 @@ another test user with some tasks include
 
  NOTE: JWT token expiry settings have not been changed and assumes default values (5 minutes for access_token and 1 day for refresh_token)
 
+## Postman Collection
+
+A ready-to-use Postman collection is included: `health-cred-django-assessment.postman_collection.json`
+
+You can import it into Postman to test all routes quickly.
